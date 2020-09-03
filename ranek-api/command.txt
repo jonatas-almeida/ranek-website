@@ -1,0 +1,3 @@
+RANEK FAKE API
+
+Run Command -> json-server --watch ranek.json

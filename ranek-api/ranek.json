@@ -1,0 +1,709 @@
+{
+  "transacao": [
+    {
+      "comprador_id": "josé@email.com",
+      "venderdor_id": "josé@email.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1250",
+        "descricao": "Tablet novo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "josé@email.com",
+        "id": "jralKRV"
+      },
+      "endereco": {
+        "cep": "53415050",
+        "rua": "Rua Água Preta",
+        "numero": "22",
+        "bairro": "Artur Lundgren I",
+        "cidade": "Paulista",
+        "estado": "PE"
+      },
+      "id": 1
+    },
+    {
+      "comprador_id": "josé@email.com",
+      "vendedor_id": "josé@email.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1250",
+        "descricao": "Tablet novo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "josé@email.com",
+        "id": "jralKRV"
+      },
+      "endereco": {
+        "cep": "53415050",
+        "rua": "Rua Água Preta",
+        "numero": "22",
+        "bairro": "Artur Lundgren I",
+        "cidade": "Paulista",
+        "estado": "PE"
+      },
+      "id": 2
+    },
+    {
+      "comprador_id": "josé@email.com",
+      "vendedor_id": "josé@email.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1250",
+        "descricao": "Tablet novo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "josé@email.com",
+        "id": "jralKRV"
+      },
+      "endereco": {
+        "cep": "54420310",
+        "rua": "Rua Doutor Aniceto Varejão",
+        "numero": "25",
+        "bairro": "Piedade",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 4
+    },
+    {
+      "comprador_id": "jonatas_almeida@email.com",
+      "vendedor_id": "jonatas_almeida@email.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "jonatas_almeida@email.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é o novo notebook",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua Lá Longe",
+        "numero": "22",
+        "bairro": "",
+        "cidade": "Recife",
+        "estado": "PE"
+      },
+      "id": 5
+    },
+    {
+      "comprador_id": "jonatas_almeida@email.com",
+      "vendedor_id": "josé@email.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1250",
+        "descricao": "Tablet novo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "josé@email.com",
+        "id": "jralKRV"
+      },
+      "endereco": {
+        "cep": "54420310",
+        "rua": "Rua Doutor Aniceto Varejão",
+        "numero": "22",
+        "bairro": "Piedade",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 6
+    },
+    {
+      "comprador_id": "juliana_paiva@email.com",
+      "vendedor_id": "josé@email.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1250",
+        "descricao": "Tablet novo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "josé@email.com",
+        "id": "jralKRV"
+      },
+      "endereco": {
+        "cep": "54420310",
+        "rua": "Rua Doutor Aniceto Varejão",
+        "numero": "2827676472386472",
+        "bairro": "Piedade",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 7
+    },
+    {
+      "comprador_id": "juliana_paiva@email.com",
+      "vendedor_id": "jonatas_almeida@email.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "jonatas_almeida@email.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é o novo smartphone",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "53415050",
+        "rua": "Rua Água Preta",
+        "numero": "23",
+        "bairro": "Artur Lundgren I",
+        "cidade": "Paulista",
+        "estado": "PE"
+      },
+      "id": 8
+    },
+    {
+      "comprador_id": "jonatas_almeida@email.com",
+      "vendedor_id": "juliana_paiva@email.com",
+      "produto": {
+        "nome": "Caixa de Som JBL",
+        "preco": "100000000000",
+        "descricao": "A caixa mais cara do universo",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "juliana_paiva@email.com",
+        "id": "AllsfD9"
+      },
+      "endereco": {
+        "cep": "54420310",
+        "rua": "Rua Doutor Aniceto Varejão",
+        "numero": "45678",
+        "bairro": "Piedade",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 9
+    },
+    {
+      "comprador_id": "juliana_paiva@email.com",
+      "vendedor_id": "jonatas_almeida@email.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "jonatas_almeida@email.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é o novo notebook",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "53415050",
+        "rua": "Rua Água Preta",
+        "numero": "23",
+        "bairro": "Artur Lundgren I",
+        "cidade": "Paulista",
+        "estado": "PE"
+      },
+      "id": 10
+    },
+    {
+      "comprador_id": "jonatas_almeida@email.com",
+      "vendedor_id": "alberto@email.com",
+      "produto": {
+        "nome": "TV Samsung 8K OLED 75\"",
+        "preco": "10000",
+        "descricao": "TV Samsung 8K OLED mais moderna do mercado",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "alberto@email.com",
+        "id": "g3AKx2U"
+      },
+      "endereco": {
+        "cep": "54420310",
+        "rua": "Rua Doutor Aniceto Varejão",
+        "numero": "1100",
+        "bairro": "Piedade",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 11
+    },
+    {
+      "comprador_id": "alberto_souza@email.com",
+      "vendedor_id": "jonatas_almeida@email.com",
+      "produto": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "jonatas_almeida@email.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é o novo smartphone",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "54330502",
+        "rua": "2ª Travessa Iati",
+        "numero": "1000",
+        "bairro": "Cajueiro Seco",
+        "cidade": "Jaboatão dos Guararapes",
+        "estado": "PE"
+      },
+      "id": 12
+    }
+  ],
+  "usuario": [
+    {
+      "id": "jonatas_almeida@email.com",
+      "nome": "Jonatas Almeida",
+      "email": "jonatas_almeida@email.com",
+      "senha": "123",
+      "cep": "12345678",
+      "rua": "Rua Lá Longe",
+      "numero": "22",
+      "bairro": "",
+      "cidade": "Recife",
+      "estado": "PE"
+    },
+    {
+      "id": "juliana_paiva@email.com",
+      "nome": "Juliana Paiva",
+      "email": "juliana_paiva@email.com",
+      "senha": "123",
+      "cep": "53415050",
+      "rua": "Rua Água Preta",
+      "numero": "23",
+      "bairro": "Artur Lundgren I",
+      "cidade": "Paulista",
+      "estado": "PE"
+    },
+    {
+      "id": "cristiane@email.com",
+      "nome": "Cristiane Paixão",
+      "email": "cristiane@email.com",
+      "senha": "123",
+      "cep": "54420310",
+      "rua": "Rua Doutor Aniceto Varejão",
+      "numero": "1100",
+      "bairro": "Piedade",
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE"
+    },
+    {
+      "id": "bezerra@email.com",
+      "nome": "Jonatas Bezerra",
+      "email": "bezerra@email.com",
+      "senha": "1234",
+      "cep": "54420310",
+      "rua": "Rua Doutor Aniceto Varejão",
+      "numero": "1100",
+      "bairro": "Piedade",
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE"
+    },
+    {
+      "id": "josé@email.com",
+      "nome": "José Souza",
+      "email": "josé@email.com",
+      "senha": "123",
+      "cep": "53415050",
+      "rua": "Rua Água Preta",
+      "numero": "22",
+      "bairro": "Artur Lundgren I",
+      "cidade": "Paulista",
+      "estado": "PE"
+    },
+    {
+      "id": "E1fDpfG",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
+    },
+    {
+      "id": "v643C0P",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
+    },
+    {
+      "id": "alberto@email.com",
+      "nome": "Alberto de Souza",
+      "email": "alberto_souza@email.com",
+      "senha": "123456",
+      "cep": "54330502",
+      "rua": "2ª Travessa Iati",
+      "numero": "1000",
+      "bairro": "Cajueiro Seco",
+      "cidade": "Jaboatão dos Guararapes",
+      "estado": "PE"
+    },
+    {
+      "id": "ps7Sm0p",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é o novo notebook",
+      "fotos": null
+    },
+    {
+      "id": "smartphone",
+      "nome": "Smartphone",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é o novo smartphone",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet",
+      "usuario_id": "jonatas_almeida@email.com",
+      "preco": "2999",
+      "vendido": "false",
+      "descricao": "Esse é o novo tablet",
+      "fotos": null
+    },
+    {
+      "nome": "Tablet",
+      "preco": "1250",
+      "descricao": "Tablet novo",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "josé@email.com",
+      "id": "jralKRV"
+    },
+    {
+      "nome": "Caixa de Som JBL",
+      "preco": "100000000000",
+      "descricao": "A caixa mais cara do universo",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "juliana_paiva@email.com",
+      "id": "AllsfD9"
+    },
+    {
+      "nome": "TV Samsung 8K OLED 75\"",
+      "preco": "10000",
+      "descricao": "TV Samsung 8K OLED mais moderna do mercado",
+      "fotos": null,
+      "vendido": "false",
+      "usuario_id": "alberto@email.com",
+      "id": "g3AKx2U"
+    }
+  ]
+}
